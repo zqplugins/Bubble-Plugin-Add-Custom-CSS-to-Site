@@ -1,0 +1,16 @@
+{
+    "categories": {
+        "0": "technical",
+        "1": "blog",
+        "2": "containers",
+        "3": "productivity",
+        "4": "analytics"
+    },
+    "demo_page": "https://youtube-url-embed.bubbleapps.io/version-test",
+    "description": "Add any CSS attribute to your site. You can obtain it by targeting elements by their ID or simply by their html tag.\n\nTurn ID of elements: https://forum.bubble.io/t/element-id-attribute-question/31871\n\nNEED HELP BUILDING A CUSTOM APPLICATION?\nhttps://dev.zeroqode.com\n\nSUPERCHARGE YOUR APP WITH ZEROQODE PLUGINS\nhttps://zeroqode.com/plugins\n\nQUESTIONS OR NEED HELP?\nhttps://forum.zeroqode.com",
+    "image": "//s3.amazonaws.com/appforest_uf/f1666623454058x593434817131927900/giphy.gif",
+    "license": "open_source",
+    "link": "https://zeroqode.com/plugins",
+    "name": "Add Custom CSS to Site",
+    "plugin_instructions": "1 - Download the plugin\n2 - Drag the plugin element in your app\n3 - Add Custom CSS inside the APP"
+}

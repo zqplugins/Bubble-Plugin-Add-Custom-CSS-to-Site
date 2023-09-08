@@ -1,0 +1,1 @@
+function(instance, properties, context) {let styles=``+properties.css+``,styleSheet=document.createElement("style");styleSheet.innerText=styles,document.head.appendChild(styleSheet);}
