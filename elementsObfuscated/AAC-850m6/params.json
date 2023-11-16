@@ -1,0 +1,21 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 50,
+        "width": 50
+    },
+    "display": "custom CSS",
+    "fields": {
+        "AAD": {
+            "caption": "css",
+            "doc": "Add text in css format.",
+            "editor": "StaticText",
+            "long_text": true,
+            "name": "css",
+            "optional": true,
+            "rank": 0
+        }
+    },
+    "icon": "ion-paintbrush"
+}
